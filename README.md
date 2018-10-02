@@ -1,2 +1,2 @@
-# WhiterPaper
+# WhitePaper
 EcoVerse Whitepaper
