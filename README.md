@@ -1,2 +1,2 @@
 # WhitePaper
-EcoVerse Whitepaper
+EcoVerse™ Whitepaper
